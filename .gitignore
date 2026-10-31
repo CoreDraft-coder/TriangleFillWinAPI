@@ -1,0 +1,26 @@
+# Build results
+bin/
+obj/
+out/
+publish/
+Debug/
+Release/
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userprefs
+
+# OS
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+packages/
+
+# Shortcut
+*.lnk
